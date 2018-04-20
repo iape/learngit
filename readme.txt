@@ -6,3 +6,4 @@ Git is important.
 Creating a new branch is quick and simple.
 Test no Fast-Forward merge.
 Test Fast-Forward merge.
+clone track
